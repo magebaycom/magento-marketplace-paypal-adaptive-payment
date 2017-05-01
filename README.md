@@ -1,7 +1,7 @@
 # Magento Marketplace Paypal Adaptive Payment Extension
-Magento Marketplace Paypal Adaptive Payment Extension helps split payment between vendors and website owner in your magento 2 website
+Magento Marketplace Paypal Adaptive Payment Extension helps split payment between vendors and website owner in your magento 2 website. Admin can receive commissions from each order of the vendor automatically.
 
-It is a plugin of Magebay Multi Vendor Marketplace Extension. You need installing this module first.
+It is a plugin of Magebay Multi Vendor Marketplace Extension. You need installed this module first.
 
 Read more [Magento Multi Vendor](https://www.magebay.com/magento-multi-vendor-marketplace-extension)
 
@@ -23,7 +23,6 @@ Magento Marketplace Paypal Adaptive Payment will automatic split the payment amo
 - Easy to installing and configure
 - Easy to customize to fit with your requirement.
 - One time payment. No hide fees
-
 
 Don't hesitate to let me know if you have any issue or problem with this plugins by submitting issues
 
